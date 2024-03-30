@@ -3,18 +3,13 @@
   "short_name": "Portifólio",
   "icons": [
     {
-      "src": "assets/img/icone.png",
-      "type": "image/png",
-      "sizes": "1024x1024"
+      "src": "assets/img/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
     },
     {
       "src": "assets/img/128.png",
       "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "assets/img/144.png",
-      "sizes": "144x144",
       "type": "image/png"
     },
     {
