@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Meu Portifólio",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Portifólio",
+  "start_url": "/index.html",
+  "theme_color": "#0563bb",
+  "icons": [
+    {
+      "src": "assets/img/favicon.jpeg",
+      "type": "image/jpeg",
+      "sizes": "382x582"
+    }
+  ],
+  "description": "Portifólio de Diego Queiroz feito para utilização durante a cadeira coding: mobile.",
+  "lang": "pt"
+}
